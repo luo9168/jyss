@@ -1,2 +1,2 @@
-教研室信息管理系统。
+jiao yan shi guanli xitong.
 
