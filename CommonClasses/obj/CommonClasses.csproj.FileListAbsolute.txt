@@ -1,0 +1,65 @@
+F:\项目程序\PQES\CommonClasses\bin\Debug\CommonClasses.dll
+F:\项目程序\PQES\CommonClasses\bin\Debug\CommonClasses.pdb
+F:\项目程序\PQES\CommonClasses\bin\Debug\DBAccess.dll
+F:\项目程序\PQES\CommonClasses\bin\Debug\MyWebControlLib.dll
+F:\项目程序\PQES\CommonClasses\bin\Debug\MyWebControlLib.pdb
+F:\项目程序\PQES\CommonClasses\bin\Debug\DBAccess.pdb
+F:\项目程序\PQES\CommonClasses\bin\Debug\Interop.PQView.dll
+F:\项目程序\PQES\CommonClasses\obj\Debug\ResolveAssemblyReference.cache
+F:\项目程序\PQES\CommonClasses\obj\Debug\Interop.PQView.dll
+F:\项目程序\PQES\CommonClasses\obj\Debug\CommonClasses.csproj.ResolveComReference.cache
+F:\项目程序\PQES\CommonClasses\obj\Debug\CommonClasses.dll
+F:\项目程序\PQES\CommonClasses\obj\Debug\CommonClasses.pdb
+F:\项目程序\国创框架\CommonClasses\obj\Debug\ResolveAssemblyReference.cache
+F:\项目程序\国创框架\CommonClasses\obj\Debug\CommonClasses.csproj.ResolveComReference.cache
+F:\项目程序\国创框架\CommonClasses\obj\Debug\CommonClasses.pdb
+F:\项目程序\国创框架\CommonClasses\bin\Debug\CommonClasses.dll
+F:\项目程序\国创框架\CommonClasses\bin\Debug\CommonClasses.pdb
+F:\项目程序\国创框架\CommonClasses\bin\Debug\DBAccess.dll
+F:\项目程序\国创框架\CommonClasses\bin\Debug\MyWebControlLib.dll
+F:\项目程序\国创框架\CommonClasses\bin\Debug\MyWebControlLib.pdb
+F:\项目程序\国创框架\CommonClasses\bin\Debug\DBAccess.pdb
+F:\项目程序\国创框架\CommonClasses\obj\Debug\CommonClasses.dll
+F:\项目程序\系统框架\CommonClasses\bin\Debug\CommonClasses.dll
+F:\项目程序\系统框架\CommonClasses\bin\Debug\CommonClasses.pdb
+F:\项目程序\系统框架\CommonClasses\bin\Debug\DBAccess.dll
+F:\项目程序\系统框架\CommonClasses\bin\Debug\MyWebControlLib.dll
+F:\项目程序\系统框架\CommonClasses\bin\Debug\MyWebControlLib.pdb
+F:\项目程序\系统框架\CommonClasses\bin\Debug\DBAccess.pdb
+F:\项目程序\系统框架\CommonClasses\obj\Debug\ResolveAssemblyReference.cache
+F:\项目程序\系统框架\CommonClasses\obj\Debug\CommonClasses.dll
+F:\项目程序\系统框架\CommonClasses\obj\Debug\CommonClasses.pdb
+F:\项目程序\复件 系统框架\CommonClasses\bin\Debug\CommonClasses.dll
+F:\项目程序\复件 系统框架\CommonClasses\bin\Debug\CommonClasses.pdb
+F:\项目程序\复件 系统框架\CommonClasses\bin\Debug\DBAccess.dll
+F:\项目程序\复件 系统框架\CommonClasses\bin\Debug\MyWebControlLib.dll
+F:\项目程序\复件 系统框架\CommonClasses\bin\Debug\MyWebControlLib.pdb
+F:\项目程序\复件 系统框架\CommonClasses\bin\Debug\DBAccess.pdb
+F:\项目程序\复件 系统框架\CommonClasses\obj\Debug\ResolveAssemblyReference.cache
+F:\项目程序\复件 系统框架\CommonClasses\obj\Debug\CommonClasses.dll
+F:\项目程序\复件 系统框架\CommonClasses\obj\Debug\CommonClasses.pdb
+E:\zqw\teacher\节水灌溉预报系统\节水灌溉预报系统\节水灌溉预报系统\CommonClasses\bin\Debug\CommonClasses.dll
+E:\zqw\teacher\节水灌溉预报系统\节水灌溉预报系统\节水灌溉预报系统\CommonClasses\bin\Debug\CommonClasses.pdb
+E:\zqw\teacher\节水灌溉预报系统\节水灌溉预报系统\节水灌溉预报系统\CommonClasses\bin\Debug\DBAccess.dll
+E:\zqw\teacher\节水灌溉预报系统\节水灌溉预报系统\节水灌溉预报系统\CommonClasses\bin\Debug\MyWebControlLib.dll
+E:\zqw\teacher\节水灌溉预报系统\节水灌溉预报系统\节水灌溉预报系统\CommonClasses\bin\Debug\MyWebControlLib.pdb
+E:\zqw\teacher\节水灌溉预报系统\节水灌溉预报系统\节水灌溉预报系统\CommonClasses\bin\Debug\DBAccess.pdb
+E:\zqw\teacher\节水灌溉预报系统\节水灌溉预报系统\节水灌溉预报系统\CommonClasses\obj\Debug\ResolveAssemblyReference.cache
+E:\zqw\teacher\节水灌溉预报系统\节水灌溉预报系统\节水灌溉预报系统\CommonClasses\obj\Debug\CommonClasses.dll
+E:\zqw\teacher\节水灌溉预报系统\节水灌溉预报系统\节水灌溉预报系统\CommonClasses\obj\Debug\CommonClasses.pdb
+F:\学校科研\节水灌溉预报系统0811\节水灌溉预报系统\CommonClasses\bin\Debug\CommonClasses.dll
+F:\学校科研\节水灌溉预报系统0811\节水灌溉预报系统\CommonClasses\bin\Debug\CommonClasses.pdb
+F:\学校科研\节水灌溉预报系统0811\节水灌溉预报系统\CommonClasses\bin\Debug\DBAccess.dll
+F:\学校科研\节水灌溉预报系统0811\节水灌溉预报系统\CommonClasses\bin\Debug\MyWebControlLib.dll
+F:\学校科研\节水灌溉预报系统0811\节水灌溉预报系统\CommonClasses\bin\Debug\MyWebControlLib.pdb
+F:\学校科研\节水灌溉预报系统0811\节水灌溉预报系统\CommonClasses\bin\Debug\DBAccess.pdb
+F:\学校科研\节水灌溉预报系统0811\节水灌溉预报系统\CommonClasses\obj\Debug\ResolveAssemblyReference.cache
+F:\学校科研\节水灌溉预报系统0811\节水灌溉预报系统\CommonClasses\obj\Debug\CommonClasses.dll
+F:\学校科研\节水灌溉预报系统0811\节水灌溉预报系统\CommonClasses\obj\Debug\CommonClasses.pdb
+F:\学校科研\教研室信息管理系统\CommonClasses\obj\Debug\ResolveAssemblyReference.cache
+F:\学校科研\教研室信息管理系统\CommonClasses\obj\Debug\CommonClasses.pdb
+F:\学校科研\教研室信息管理系统\CommonClasses\bin\Debug\CommonClasses.dll
+F:\学校科研\教研室信息管理系统\CommonClasses\bin\Debug\CommonClasses.pdb
+F:\学校科研\教研室信息管理系统\CommonClasses\bin\Debug\DBAccess.dll
+F:\学校科研\教研室信息管理系统\CommonClasses\bin\Debug\DBAccess.pdb
+F:\学校科研\教研室信息管理系统\CommonClasses\obj\Debug\CommonClasses.dll

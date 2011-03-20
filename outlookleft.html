@@ -1,0 +1,83 @@
+<html> 
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312"> 
+<title>教研室管理菜單</title> 
+<style type="text/css"> 
+.titleStyle{ 
+background-color:#0E6AAF;color:#ffffff;border-top:1px solid #FFFFFF;font-size:9pt;cursor:hand; 
+} 
+.contentStyle{ 
+background-color:#ffffff;color:#0E6AAF;font-size:9pt; 
+} 
+
+a{ 
+color:blue; 
+} 
+body{ 
+font-size:9pt; 
+} 
+</style> 
+</head> 
+<body> 
+
+<script language="JavaScript"> 
+<!-- 
+var layerTop=0; //菜单顶边距 
+var layerLeft=5; //菜单左边距 
+var layerWidth=140; //菜单总宽 
+var titleHeight=20; //标题栏高度 
+var contentHeight=400; //内容区高度 
+var stepNo=10; //移动步数，数值越大移动越慢 
+
+var itemNo=0;runtimes=0; 
+document.write('<span id=itemsLayer style="position:absolute;overflow:hidden;border:1px solid #008800;left:'+layerLeft+';top:'+layerTop+';width:'+layerWidth+';">'); 
+
+function addItem(itemTitle,itemContent){ 
+itemHTML='<div id=item'+itemNo+' itemIndex='+itemNo+' style="position:relative;left:0;top:'+(-contentHeight*itemNo)+';width:'+layerWidth+';"><table width=100% cellspacing="0" cellpadding="0">'+ 
+'<tr><td height='+titleHeight+' onclick=changeItem('+itemNo+') class="titleStyle" align=center>'+itemTitle+'</td></tr>'+ 
+'<tr><td height='+contentHeight+' class="contentStyle">'+itemContent+'</td></tr></table></div>'; 
+document.write(itemHTML); 
+itemNo++; 
+} 
+//添加菜单标题和内容，可任意多项，注意格式： 
+addItem('欢迎','<BR>　　感谢使用<br>          教研室管理系统 <br>'); 
+addItem('日常办公管理','<center><a href="Notification.aspx" target="mainFrame">通知通告</a> <BR><BR><a href="Notification_Edit.aspx" target="mainFrame">文件发布</a> <BR><BR><a href="Notification_Edit.aspx" target="mainFrame">文件上报</a> <BR><BR></center>'); 
+addItem('科研信息管理','<center><a href="ItemAdd.aspx" target="mainFrame">论文管理</a> <BR><BR><a href="ItemManager.aspx" target="mainFrame">著作管理</a> <BR><BR><a href="ClassAdd.aspx" target="mainFrame">获奖管理</a> <BR><BR><a href="ClassManager.aspx" target="mainFrame">纵向课程管理</a> <BR><BR><a href="UserManager.aspx" target="mainFrame">横向课程管理</a> <BR><BR></center>'); 
+addItem('组织机构管理','<center><a href="UserManager.aspx" target="mainFrame">组织机构管理</a> <BR><BR></center>'); 
+addItem('课程建设管理','<center><a href="SyslogManage.aspx" target="mainFrame">课程组管理</a> <BR><BR><a href="UserManager.aspx" target="mainFrame">课程管理</a> <BR><BR><a href="UserManager.aspx" target="mainFrame">教学大纲管理</a> <BR><BR><a href="UserManager.aspx" target="mainFrame">实验大纲管理</a> <BR><BR><a href="UserManager.aspx" target="mainFrame">题库管理</a> <BR><BR></center>'); 
+addItem('权限管理','<center><a href="SysHelp.html" target="mainFrame">用户管理</a><br><br><a href="UserManager.aspx" target="mainFrame">用户组管理</a> <BR><BR></center>'); 
+
+document.write('</span>') 
+document.all.itemsLayer.style.height=itemNo*titleHeight+contentHeight; 
+
+toItemIndex=itemNo-1;onItemIndex=itemNo-1; 
+
+function changeItem(clickItemIndex){ 
+toItemIndex=clickItemIndex; 
+if(toItemIndex-onItemIndex>0) moveUp(); else moveDown(); 
+runtimes++; 
+if(runtimes>=stepNo){ 
+onItemIndex=toItemIndex; 
+runtimes=0;} 
+else 
+setTimeout("changeItem(toItemIndex)",10); 
+} 
+
+function moveUp(){ 
+for(i=onItemIndex+1;i<=toItemIndex;i++) 
+eval('document.all.item'+i+'.style.top=parseInt(document.all.item'+i+'.style.top)-contentHeight/stepNo;'); 
+} 
+
+function moveDown(){ 
+for(i=onItemIndex;i>toItemIndex;i--) 
+eval('document.all.item'+i+'.style.top=parseInt(document.all.item'+i+'.style.top)+contentHeight/stepNo;'); 
+} 
+changeItem(0); 
+//--> 
+</script> 
+</body> 
+</html> 
+
+
+
+
